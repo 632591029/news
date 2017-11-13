@@ -1,3 +1,3 @@
 # news
-cnpm  install
-npm run dev 
+1.cnpm  install
+         2.npm run dev 
